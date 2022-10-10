@@ -6,14 +6,11 @@
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://himanshuparmar3355.github.io/posts/flag-of-canada/</loc>
+    <loc>https://himanshuparmar3355.github.io/post/flag-of-canada/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://himanshuparmar3355.github.io/posts/</loc>
+    <loc>https://himanshuparmar3355.github.io/post/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://himanshuparmar3355.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://himanshuparmar3355.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -24,31 +21,22 @@
     <loc>https://himanshuparmar3355.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://himanshuparmar3355.github.io/posts/markdown-syntax-guide/</loc>
+    <loc>https://himanshuparmar3355.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://himanshuparmar3355.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://himanshuparmar3355.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://himanshuparmar3355.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://himanshuparmar3355.github.io/posts/placeholder-text/</loc>
+    <loc>https://himanshuparmar3355.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://himanshuparmar3355.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://himanshuparmar3355.github.io/posts/math-typesetting/</loc>
+    <loc>https://himanshuparmar3355.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://himanshuparmar3355.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://himanshuparmar3355.github.io/posts/emoji-support/</loc>
+    <loc>https://himanshuparmar3355.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://himanshuparmar3355.github.io/about/</loc>
@@ -56,6 +44,10 @@
   </url><url>
     <loc>https://himanshuparmar3355.github.io/page/about/</loc>
   </url><url>
+    <loc>https://himanshuparmar3355.github.io/archives/</loc>
+  </url><url>
     <loc>https://himanshuparmar3355.github.io/page/</loc>
+  </url><url>
+    <loc>https://himanshuparmar3355.github.io/search/</loc>
   </url>
 </urlset>
