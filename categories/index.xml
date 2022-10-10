@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on This is my first blog.</title>
-    <link>https://parmarhimanshu3355.github.io/categories/</link>
+    <link>https://himanshuparmar3355.github.io/categories/</link>
     <description>Recent content in Categories on This is my first blog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Himanshu Parmar)</managingEditor>
-    <webMaster>youremail@domain.com (Himanshu Parmar)</webMaster><atom:link href="https://parmarhimanshu3355.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>youremail@domain.com (Himanshu Parmar)</webMaster><atom:link href="https://himanshuparmar3355.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
