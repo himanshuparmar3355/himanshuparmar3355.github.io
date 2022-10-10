@@ -1,3 +1,4 @@
 User-agent: *
-
+Disallow:
+Allow: /
 Sitemap: https://himanshuparmar3355.github.io/sitemap.xml
